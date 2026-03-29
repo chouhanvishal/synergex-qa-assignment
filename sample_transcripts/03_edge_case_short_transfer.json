@@ -1,0 +1,8 @@
+{
+  "call_id": "CALL-003",
+  "agent_name": "Priya Nair",
+  "call_date": "2025-06-10",
+  "call_duration_seconds": 22,
+  "department": "Helpdesk",
+  "transcript": "Agent: Thank you for calling Synergex Med helpdesk, this is Priya.\nCaller: Hi I think I have the wrong number, I was trying to reach billing.\nAgent: No problem, let me transfer you to billing right now.\nCaller: Thank you.\nAgent: One moment please."
+}

@@ -1,0 +1,8 @@
+{
+  "call_id": "CALL-002",
+  "agent_name": "Derek Hawkins",
+  "call_date": "2025-06-10",
+  "call_duration_seconds": 245,
+  "department": "Records",
+  "transcript": "Agent: Synergex Med records, what do you need?\nCaller: Hi, I'm calling from Goldstein & Associates law firm. We need medical records for one of your patients, James Torino, date of birth August 3rd 1965, for a personal injury case.\nAgent: Yeah I see him in the system. He had three lumbar injections and an MRI in March. What format do you need?\nAgent: Actually we can just fax it over, what's the number?\nCaller: Our fax is 310-555-0182. But wait, don't you need a signed release from the patient first?\nAgent: Oh, I mean, we usually do but if the law firm is requesting it it's probably fine.\nCaller: I'm not sure that's right. We do have a signed release, I just expected you to ask for it.\nAgent: Okay well send it over with the fax number and we'll process it. These records requests take like 2 to 3 weeks by the way, maybe longer.\nCaller: The standard I'm aware of is 30 days by law. Is it going to be within 30 days?\nAgent: Yeah yeah, 30 days, sure. Look I have a lot of calls to get through, anything else?\nCaller: No, I think that's everything.\nAgent: Alright. Bye."
+}

@@ -1,0 +1,8 @@
+{
+  "call_id": "CALL-001",
+  "agent_name": "Maria Santos",
+  "call_date": "2025-06-10",
+  "call_duration_seconds": 187,
+  "department": "Scheduling",
+  "transcript": "Agent: Thank you for calling Synergex Med, this is Maria. How can I help you today?\nCaller: Hi, I need to reschedule my appointment. It's currently on Thursday at 2 PM.\nAgent: Of course, I'd be happy to help with that. Can I get your date of birth and the name of the provider you're seeing?\nCaller: Sure, it's March 14th, 1978, and I see Dr. Reyes.\nAgent: Thank you. I have your record here. Your current appointment is Thursday June 12th at 2 PM with Dr. Reyes at our Torrance location. Would you like to move that to a different day?\nCaller: Yes, if possible next week, maybe Tuesday or Wednesday?\nAgent: I have an opening on Tuesday June 17th at 11 AM and Wednesday June 18th at 3 PM. Which works better for you?\nCaller: Tuesday at 11 works great.\nAgent: Perfect. I've rescheduled your appointment to Tuesday June 17th at 11 AM with Dr. Reyes at the Torrance location. You'll receive a confirmation text shortly. Is there anything else I can help you with?\nCaller: No, that's all. Thank you!\nAgent: Of course, have a great day. Goodbye!"
+}
