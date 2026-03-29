@@ -140,16 +140,16 @@ OpenAI calls use `response_format={"type": "json_object"}` for guaranteed JSON o
 
 ---
 
-## Running the Eval Script
+## Running `tests.py`
 
-The eval script loads all sample transcripts, hits the live API, validates schemas, and asserts expected outcomes:
+The tests script loads all sample transcripts, hits the live API, validates schemas, and asserts expected outcomes:
 
 ```bash
 # API must be running on port 8000
-python eval.py
+python tests.py
 
 # Custom URL
-python eval.py --url http://localhost:8000
+python tests.py --url http://localhost:8000
 ```
 
 Expected results:
@@ -196,7 +196,7 @@ synergex-qa/
 │   ├── 01_clean_call.json
 │   ├── 02_problematic_call.json
 │   └── 03_edge_case_short_transfer.json
-├── eval.py              # Evaluation + schema validation script
+├── tests.py             # Sample transcripts + schema / expectation checks
 ├── requirements.txt
 ├── .env.example
 └── README.md

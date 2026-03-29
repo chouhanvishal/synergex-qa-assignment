@@ -129,7 +129,7 @@ def run_eval(base_url: str) -> None:
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Eval script for Synergex Med QA API")
+    parser = argparse.ArgumentParser(description="Run sample transcripts against the Synergex Med QA API")
     parser.add_argument(
         "--url", default="http://localhost:8000", help="Base URL of the running API"
     )
